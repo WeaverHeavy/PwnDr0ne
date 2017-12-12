@@ -1,16 +1,6 @@
 # Hackdrone
-Product	          Price	    Description	    Weight	    Dimensions	      Power Consumption
-VISUO XS809HW	     $45	    Drone	            158g	    324x325x60mm	
-Pi Zero W	         $10	    Microcontroller	  9g	      65x30×5mm	         120/mA
-1200mAh Lipo	     $10	    Battery	          23g	      66x36x10mm	
-Edimax EW-7811 Un	 $8	      usb wifi adapter	3g		
-Relay	             $2	      Relay	            18g		
-LTE OPTION					
-I-LTE Shield	     $125	    LTE/GPS module	  10g	       34.29x49.02mm	
-gps antenna	       $5	      GPS antenna	      2.4g		
-gsm lte antenna	   $2.90	  LTE antenna	      .5g		
-SOLAR OPTION					
-Solargenie	       $20	Solar Power Bank			
-					
-					
-			                                       Max 70~80		
+Goal is to take a cheap ($50~100) commercially available quadcopter drone and throw a raspberry pi onto it to act as a pivot point. Overall price goal is  ~$100.
+
+Initial milestone is to just get wifi/bluetooth capability and ssh into the device from a laptop and be able to do MITM attacks, network mapping, etc.
+
+Longterm goal is LTE/GPS capability, solar power bank, remote on/off relay switch which would allow me to power the drone on and off from a remote location (to conserve power)
