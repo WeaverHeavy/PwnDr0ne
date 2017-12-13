@@ -1,34 +1,21 @@
-Product,Price,Description,Weight,Dimensions,Power Consumption
-VISUO XS809HW,$45,Drone,158g,324x325x60mm,
-Pi Zero W,$10,Microcontroller,9g,65x30×5mm,120/mA
-1200mAh Lipo,$10,Battery,23g,66x36x10mm,
-Edimax EW-7811 Un,$8,usb wifi adapter,3g,,
-Relay,$2,Relay,18g,,
-,,,,,
-LTE OPTION,,,,,
-I-LTE Shield,$125,LTE/GPS module,10g,34.29x49.02mm,
-gps antenna,$5,GPS antenna,2.4g,,
-gsm lte antenna,$2.90,LTE antenna,.5g,,
-,,,,,
-SOLAR OPTION,,,,,
-Solargenie,$20,Solar Power Bank,,,
-,,,,,
-,,,,,
-Max carrying weight 70~80g,,,,,
-,,,,,
-,,,,,
-600mAh lipo,6.8,battery,9g,,
-,,,,,
-http://www.minidso.com/forum.php?mod=viewthread&tid=1816,,,,,
-https://hologram.io/,,,,,
-https://www.switch-science.com/catalog/3432/,,,,,
-http://nimbelink.com/skywire-4g-lte-cat-m1-gnss/,,,,,
-https://www.multitech.com/brands/socketmodem-cell,,,,,
-https://www.adafruit.com/product/3147,,,,,
-https://learn.adafruit.com/adafruit-fona-3g-cellular-gps-breakout,,,,,
-,,,,,
-,,,,,
-,,,,,
-https://iot-playground.com/blog/2-uncategorised/12-internet-controlled-switch,,,,,
-http://itbrainpower.net/4G-shield-modular-modem-l-LTE/resources,,,,,
-https://raspberrypi.stackexchange.com/questions/58661/raspberry-pi-control-on-off-switch-with-relay,,,,,
+Option,Part Number,Part Name,Qty,UoM,Description,Price (USD),Weight (g),Dimensions (mm),Power (/mA),Purchase Link
+Base,XS809HW,VISUO XS809HW,1,each,Drone,$45,158g,324x325x60,,https://www.banggood.com/VISUO-XS809HW-WIFI-FPV-With-Wide-Angle-HD-Camera-High-Hold-Mode-Foldable-Arm-RC-Quadcopter-RTF-p-1149086.html?cur_warehouse=USA
+Base,,Pi Zero W,1,each,Microcontroller,$10,9g,65x30×5,120/mA,https://www.adafruit.com/product/3400
+Base,,1200mAh Lipo,1,each,Battery,$10,23g,66x36x10,,https://www.adafruit.com/product/258
+Base,EW-7811 Un,Edimax EW-7811 Un,2,each,usb wifi adapter,$8,3g,,,https://www.amazon.com/Edimax-EW-7811Un-150Mbps-Raspberry-Supports/dp/B003MTTJOY
+LTE,,I-LTE Shield,1,each,LTE/GPS module,$125,10g,34.29x49.02,,http://itbrainpower.net/4G-shield-modular-modem-l-LTE/features.php
+LTE,,gps antenna,1,each,GPS antenna,$5,2.4g,,,https://www.adafruit.com/product/2460
+LTE,,gsm lte antenna,1,each,LTE antenna,$2.90,.5g,,,https://www.adafruit.com/product/1991
+Solar,,Solargenie,1,each,Solar Power Bank,$20,,,,http://www.gearzap.com/energenie-solargenie-mini-charger-solar-power-bank-with-adapters.html
+Candidate,,600mAh lipo,,,battery,$6.80,9g,,,
+Candidate,,Hologram Dash,,,LTE module,,,,,https://hologram.io/dash/
+Candidate,,Relay,1,each,Relay,$2,18g,,,https://www.ebay.com/itm/310636242802?rmvSB=true
+,,,,,,,,,,http://www.minidso.com/forum.php?mod=viewthread&tid=1816
+,,,,,,,,,,https://www.switch-science.com/catalog/3432/
+,,,,,,,,,,http://nimbelink.com/skywire-4g-lte-cat-m1-gnss/
+,,,,,,,,,,https://www.multitech.com/brands/socketmodem-cell
+,,,,,,,,,,https://www.adafruit.com/product/3147
+,,,,,,,,,,https://learn.adafruit.com/adafruit-fona-3g-cellular-gps-breakout
+,,,,,,,,,,https://iot-playground.com/blog/2-uncategorised/12-internet-controlled-switch
+,,,,,,,,,,http://itbrainpower.net/4G-shield-modular-modem-l-LTE/resources
+,,,,,,,,,,https://raspberrypi.stackexchange.com/questions/58661/raspberry-pi-control-on-off-switch-with-relay
